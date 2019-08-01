@@ -1,0 +1,10 @@
+{
+  "name": "sella-api",
+  "version": "1.0.0",
+  "description": "sell and buy any products available",
+  "main": "index.js",
+  "repository": "https://github.com/Maxondria/sella-api.git",
+  "author": "Maxon Tayebwa <maxtayebwa@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
