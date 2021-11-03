@@ -40,6 +40,6 @@
     "sequelize-cli": "^5.5.0",
     "swagger-jsdoc": "^3.3.0",
     "swagger-ui-express": "^4.0.7",
-    "validator": "^11.1.0"
+    "validator": "^13.7.0"
   }
 }
